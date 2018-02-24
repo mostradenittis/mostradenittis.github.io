@@ -2,6 +2,7 @@
 
 path#ingresso:hover{
   fill: #f96e11;
+  cursor: pointer;
 }
 
 path#stanza5:hover{
