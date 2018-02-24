@@ -1,0 +1,28 @@
+/* Regole CSS per l'hover dei pezzi di path svg */
+
+path#ingresso:hover{
+  fill: #f96e11;
+}
+
+path#stanza5:hover{
+  fill: #4ea316;
+}
+
+path#stanza4:hover{
+  fill: #4ea316;
+}
+path#stanza3:hover{
+  fill: #4ea316;
+}
+
+path#stanza2:hover{
+  fill: #4ea316;
+}
+
+path#stanza1:hover{
+  fill: #4ea316;
+}
+
+path#zona_mercato:hover{
+  fill: #c5f700;
+}
