@@ -92,3 +92,30 @@
     from {opacity: 0}
     to {opacity: 1}
 }
+
+body{
+  background-color: #f7f7f7;
+  color: #333333;
+}
+
+header{
+  text-align: center;
+  align-items: center;
+}
+
+#hr{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+footer{
+  text-align: center;
+  background-color: #e8e8e8;
+  height: 100px;
+}
+
+a{
+  text-decoration: none;
+  color: #30abd1;
+  font-weight: bold;
+}
