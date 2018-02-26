@@ -47,9 +47,9 @@
 
 .modal-header {
     padding: 2px 16px;
-    background-color: #5cb85c;
     color: white;
 }
+
 
 .modal-body {
     padding: 2px 16px;
@@ -57,8 +57,19 @@
 
 .modal-footer {
     padding: 2px 16px;
-    background-color: #5cb85c;
     color: white;
+}
+
+.ingresso {
+    background-color: #f96e11;
+}
+
+.mkt {
+    background-color: #8e8c00;
+}
+
+.stanza {
+  background-color: #4ea316;
 }
 
 /* Add Animation */

@@ -22,8 +22,10 @@ path#stanza2:hover{
 
 path#stanza1:hover{
   fill: #4ea316;
+  cursor: pointer;
 }
 
 path#zona_mercato:hover{
   fill: #c5f700;
+  cursor: pointer;
 }
