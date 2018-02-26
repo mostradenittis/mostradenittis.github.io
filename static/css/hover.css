@@ -7,17 +7,21 @@ path#ingresso:hover{
 
 path#stanza5:hover{
   fill: #4ea316;
+  cursor: pointer;
 }
 
 path#stanza4:hover{
   fill: #4ea316;
+  cursor: pointer;
 }
 path#stanza3:hover{
   fill: #4ea316;
+  cursor: pointer;
 }
 
 path#stanza2:hover{
   fill: #4ea316;
+  cursor: pointer;
 }
 
 path#stanza1:hover{
