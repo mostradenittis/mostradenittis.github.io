@@ -109,6 +109,11 @@ header{
   padding-right: 150px;
 }
 
+hr{
+  border-color: #333333;
+  display: block;
+}
+
 footer{
   text-align: center;
   background-color: #e8e8e8;
@@ -119,4 +124,25 @@ a{
   text-decoration: none;
   color: #30abd1;
   font-weight: bold;
+}
+
+nav{
+  padding-left: 200px;
+  padding-right: 200px;
+  text-align: center;
+}
+
+nav > ul{
+  list-style-type: none;
+}
+
+nav > ul > li {
+  display: inline;
+  padding: 25px;
+  background-color: #edeaea;
+}
+
+nav > ul > li > a{
+  color: #333333;
+  font-size: 25px;
 }
