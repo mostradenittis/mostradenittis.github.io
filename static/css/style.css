@@ -174,5 +174,5 @@ nav > ul > li > a{
 .cliccadipiu {
   cursor: pointer;
   color: #4ea316;
-  text-decoration: bold;
+  font-weight: bold;
 }
