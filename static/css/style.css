@@ -165,3 +165,14 @@ nav > ul > li > a{
   padding: 30px;
   text-align: left;
 }
+
+.dipiu {
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.cliccadipiu {
+  cursor: pointer;
+  color: #4ea316;
+  text-decoration: bold;
+}
