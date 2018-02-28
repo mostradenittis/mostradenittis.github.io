@@ -146,3 +146,22 @@ nav > ul > li > a{
   color: #333333;
   font-size: 25px;
 }
+
+.opera{
+  text-align: center;
+  background-color: #e8e8e8;
+}
+
+.tabopera{
+  width: 100%;
+  padding: 30px;
+}
+
+.imgop {
+  width: 30%;
+}
+
+.textop {
+  padding: 30px;
+  text-align: left;
+}
