@@ -72,27 +72,6 @@
   background-color: #4ea316;
 }
 
-/* Add Animation */
-@-webkit-keyframes slideIn {
-    from {bottom: -300px; opacity: 0}
-    to {bottom: 0; opacity: 1}
-}
-
-@keyframes slideIn {
-    from {bottom: -300px; opacity: 0}
-    to {bottom: 0; opacity: 1}
-}
-
-@-webkit-keyframes fadeIn {
-    from {opacity: 0}
-    to {opacity: 1}
-}
-
-@keyframes fadeIn {
-    from {opacity: 0}
-    to {opacity: 1}
-}
-
 body{
   background-color: #f7f7f7;
   color: #333333;
@@ -169,10 +148,49 @@ nav > ul > li > a{
 .dipiu {
   padding: 30px;
   background-color: #ffffff;
+  overflow: hidden;
+  height: 100%;
+
+  -webkit-animation-name: slideInDP;
+  -webkit-animation-duration: 0.4s;
+  animation-name: slideInDP;
+  animation-duration: 0.4s
 }
 
 .cliccadipiu {
   cursor: pointer;
   color: #4ea316;
   font-weight: bold;
+}
+
+
+/* Add Animation */
+@-webkit-keyframes slideIn {
+    from {bottom: -300px; opacity: 0}
+    to {bottom: 0; opacity: 1}
+}
+
+@keyframes slideIn {
+    from {bottom: -300px; opacity: 0}
+    to {bottom: 0; opacity: 1}
+}
+
+@-webkit-keyframes fadeIn {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0}
+    to {opacity: 1}
+}
+
+@-webkit-keyframes slideInDP {
+    from {padding: 0px; height:0%}
+    to {padding: 30px; height:100%}
+}
+
+@keyframes slideInDP {
+  from {padding: 0px; height:0%}
+  to {padding: 30px; height:100%}
 }
