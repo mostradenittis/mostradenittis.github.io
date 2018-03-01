@@ -205,3 +205,8 @@ blockquote{
   padding: 30px;
   background-color: #e8e8e8;
 }
+
+body.opere{
+  padding-left: 20px;
+  padding-right: 20px;
+}
