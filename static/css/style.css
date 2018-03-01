@@ -194,3 +194,14 @@ nav > ul > li > a{
   from {padding: 0px; height:0%}
   to {padding: 30px; height:100%}
 }
+
+article{
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+}
+
+blockquote{
+  padding: 30px;
+  background-color: #e8e8e8;
+}
